@@ -1,0 +1,9 @@
+Change-Id: Ibb022e6d08f286aa9557823b97da7b2614caa392
+Code-Review+1: Will DeBerry <hillbillyhacker86@gmail.com>
+Code-Review+2: Roman Birg <romanbirg@gmail.com>
+Verified+1: Roman Birg <romanbirg@gmail.com>
+Submitted-by: Roman Birg <romanbirg@gmail.com>
+Submitted-at: Sun, 08 Apr 2012 14:54:40 -0400
+Reviewed-on: http://gerrit.sudoservers.com/68
+Project: AOKP/external_qemu
+Branch: refs/heads/ics
